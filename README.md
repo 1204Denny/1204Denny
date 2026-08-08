@@ -22,7 +22,7 @@ Currently, I'm focused on Web Development while preparing for future specializat
 
 ## 🚀 Current Journey
 
-✔ Learning JavaScript
+✔ JavaScript
 
 ✔ Studying PHP + Laravel
 
@@ -56,6 +56,7 @@ Currently, I'm focused on Web Development while preparing for future specializat
 - GitHub
 - VS Code
 - XAMPP
+- Laragon
 
 ---
 
@@ -87,7 +88,9 @@ A modern portfolio that showcases my projects, skills and professional journey.
 
 - Master JavaScript
 
-- Learn Laravel
+- Learn Laravel So Much
+
+-Learn Python | java
 
 - Improve my English
 
@@ -124,17 +127,6 @@ A modern portfolio that showcases my projects, skills and professional journey.
 - Continuous learning
 
 ---
-
-## 📫 Connect With Me
-
-LinkedIn *(Coming Soon)*
-
-Portfolio *(Coming Soon)*
-
-Email *(Coming Soon)*
-
----
-
 <p align="center">
 
 ⭐ Thanks for visiting my GitHub profile!
