@@ -1,134 +1,349 @@
-<h1 align="center">Hi 👋, I'm Denny AK</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer from Angola 🇦🇴
-</h3>
+# 👋 Hi, I'm Denny AK
 
-<p align="center">
-<b>Learning. Building. Innovating.</b>
-</p>
+### Backend & Database Developer in Progress · Cybersecurity Enthusiast
+
+**Learning. Building. Innovating.**
+
+<br>
+
+\
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an aspiring Software Developer from Angola passionate about building digital solutions that solve real-world problems.
+I'm **Daniel António Kapemba**, a software developer from **Angola**, building my career around **Backend Development, Databases and Cybersecurity**.
 
-I believe technology has the power to improve people's lives, and my goal is to continuously learn, build meaningful software, and become a world-class developer.
+I'm particularly interested in what happens behind the interface — how applications process requests, how data is structured and stored, how systems communicate, and how vulnerabilities can compromise them.
 
-Currently, I'm focused on Web Development while preparing for future specializations in Artificial Intelligence and Cybersecurity.
+My professional path is built around:
+
+```text
+Backend
+   ↓
+Databases
+   ↓
+Systems & Networks
+   ↓
+Cybersecurity
+```
+
+I learn primarily by **building real projects, experimenting in laboratories and solving practical problems**.
+
+My goal is not simply to know many technologies.
+
+> **I want to understand how systems are built, how data is handled, and how everything can be protected.**
 
 ---
 
-## 🚀 Current Journey
+## 🧭 My Current Focus
 
-✔ JavaScript
+<table>
+<tr>
+<td width="50%">
 
-✔ Studying PHP + Laravel
+### 💻 Backend
 
-✔ Building real projects
+* PHP
+* Laravel
+* JavaScript
+* TypeScript (learning)
+* Authentication
+* Authorization
 
-✔ Creating my professional portfolio
+</td>
 
-✔ Improving my English
+<td width="50%">
 
-✔ Preparing for AI & Cybersecurity
+### 🗄️ Databases
+
+* SQL
+* MySQL
+* Database Design
+* Data Modeling
+* Transactions
+* Database Security
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐧 Systems
+
+* Ubuntu
+* Terminal
+* Git
+* System fundamentals
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Cybersecurity
+
+* Security Fundamentals
+* Ethical Hacking (beginning)
+* Secure Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### Languages & Backend
 
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- SQL
+<p align="left">
+
+<a href="https://www.php.net/">
+<img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP"/>
+</a>
+
+<a href="https://www.javascript.com/">
+<img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript"/>
+</a>
+
+<a href="https://laravel.com/">
+<img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
+</a>
+
+</p>
 
 ### Databases
 
-- MySQL
+<p align="left">
 
-### Tools
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
+</a>
 
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- Laragon
-
----
-
-## 📂 Featured Projects
-
-### 🚀 KitPay Landing Page
-
-A modern landing page developed for a software company.
-
----
-
-### ✍ Digital Signature & Document Management System
-
-Academic project focused on digital transformation, document security and digital signatures.
-
----
-
-### 🌐 Personal Portfolio
-
-A modern portfolio that showcases my projects, skills and professional journey.
-
-*(Currently under development)*
-
----
-
-## 🎯 2026 Goals
-
-- Build professional software projects
-
-- Master JavaScript
-
-- Learn Laravel So Much
-
--Learn Python | java
-
-- Improve my English
-
-- Build my personal brand
-
-- Publish consistently on GitHub
-
-- Start contributing to Open Source
-
-- Begin my studies in Artificial Intelligence
-
-- Begin my studies in Cybersecurity
-
----
-
-## 💡 My Philosophy
-
-> Every expert was once a beginner.
-
-> Consistency beats motivation.
-
-> Great software solves real problems.
-
----
-
-## 🌍 Looking For
-
-- Software Development opportunities
-
-- Open Source collaboration
-
-- Networking with developers
-
-- Continuous learning
-
----
-<p align="center">
-
-⭐ Thanks for visiting my GitHub profile!
+<a href="https://www.w3schools.com/sql/">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQL"/>
+</a>
 
 </p>
+
+### Systems & Tools
+
+<p align="left">
+
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux"/>
+</a>
+
+<a href="https://ubuntu.com/">
+<img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" alt="Ubuntu"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔐 DocSign
+
+**Digital Signature & Document Management System**
+
+A project focused on secure document management, authentication, access control and digital signatures.
+
+**Focus:**
+
+`PHP` `MySQL` `Security` `Authentication` `RBAC` `Cryptography`
+
+> 🔗 **[View Repository →](#)**
+
+---
+
+### 🤖 Denny-ChatBot
+
+A chatbot developed during an internship that processes user questions, searches for matching answers stored in a `.JSON` file and, when necessary, retrieves information from the Web.
+
+**Focus:**
+
+`JavaScript` `JSON` `Web` `Logic`
+
+> 🔗 **[View Repository →](#)**
+
+---
+
+### 💼 Portfolio
+
+My personal portfolio showcasing my projects, technical journey and professional development.
+
+> 🔗 **[View Portfolio →](#)**
+
+---
+
+# 🧠 How I Learn
+
+I don't want to learn technology only by memorizing commands.
+
+My learning cycle is:
+
+```text
+        LEARN
+          ↓
+       BUILD
+          ↓
+      BREAK IT
+          ↓
+     UNDERSTAND
+          ↓
+       SECURE
+          ↓
+       IMPROVE
+          ↓
+        REPEAT
+```
+
+Every project is an opportunity to understand something deeper.
+
+---
+
+# 🧭 My Roadmap
+
+### 01 — Backend & Databases
+
+`Backend Development` → `SQL` → `Database Engineering` → `APIs`
+
+⬇️
+
+### 02 — Systems & Networking
+
+`Linux` → `Operating Systems` → `Networking` → `Windows Server`
+
+⬇️
+
+### 03 — Cybersecurity
+
+`Security Fundamentals` → `Web Security` → `Ethical Hacking` → `Security Engineering`
+
+⬇️
+
+### 04 — Professional Growth
+
+`CCNA` → `Security+` → `Cloud` → `Advanced Security`
+
+⬇️
+
+### Future
+
+**Cybersecurity × Data × Artificial Intelligence**
+
+---
+
+# 📚 Currently Learning
+
+```text
+Backend Development
+SQL & Database Engineering
+Linux
+Networking
+Ethical Hacking
+Cybersecurity
+```
+
+### 🎯 Next Milestones
+
+* [ ] Strengthen Backend Development
+* [ ] Deepen SQL & Database Engineering
+* [ ] Complete Networking foundations
+* [ ] Prepare for CCNA
+* [ ] Strengthen Linux & Systems
+* [ ] Continue Ethical Hacking
+* [ ] Build security-focused projects
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1204Denny&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1204Denny&layout=compact&hide_border=true&langs_count=8"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=1204Denny&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1204Denny&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 🌍 Beyond Code
+
+I'm also working on:
+
+* 🇬🇧 Improving my English
+* 🧠 Developing problem-solving skills
+* 📚 Studying technology consistently
+* 🌐 Building a professional network
+* 🚀 Participating in technology projects and competitions
+* 🤝 Exploring Open Source
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in connecting with:
+
+* Backend Developers
+* Database Professionals
+* Cybersecurity Professionals
+* Students and technology enthusiasts
+* Open Source contributors
+* People building interesting things
+
+<div align="center">
+
+### **Let's learn, build and innovate together.**
+
+<br>
+
+**Learning. Building. Innovating.**
+
+🇦🇴 **Angola**
+
+</div>
