@@ -139,10 +139,6 @@ My goal is not simply to know many technologies.
 
 <p align="left">
 
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux"/>
-</a>
-
 <a href="https://ubuntu.com/">
 <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" alt="Ubuntu"/>
 </a>
@@ -175,7 +171,7 @@ A project focused on secure document management, authentication, access control 
 
 `PHP` `MySQL` `Security` `Authentication` `RBAC` `Cryptography`
 
-> 🔗 **[View Repository →](#)**
+> Repositório Disponível Em Breve
 
 ---
 
@@ -187,7 +183,7 @@ A chatbot developed during an internship that processes user questions, searches
 
 `JavaScript` `JSON` `Web` `Logic`
 
-> 🔗 **[View Repository →](#)**
+> Repositório Disponível Em Breve
 
 ---
 
@@ -195,7 +191,7 @@ A chatbot developed during an internship that processes user questions, searches
 
 My personal portfolio showcasing my projects, technical journey and professional development.
 
-> 🔗 **[View Portfolio →](#)**
+> Repositório Disponível Em Breve
 
 ---
 
@@ -250,10 +246,6 @@ Every project is an opportunity to understand something deeper.
 `CCNA` → `Security+` → `Cloud` → `Advanced Security`
 
 ⬇️
-
-### Future
-
-**Cybersecurity × Data × Artificial Intelligence**
 
 ---
 
