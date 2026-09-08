@@ -52,8 +52,6 @@ My goal is not simply to know many technologies.
 * Laravel
 * JavaScript
 * TypeScript (learning)
-* Authentication
-* Authorization
 
 </td>
 
@@ -65,7 +63,6 @@ My goal is not simply to know many technologies.
 * MySQL
 * Database Design
 * Data Modeling
-* Transactions
 * Database Security
 
 </td>
