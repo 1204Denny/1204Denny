@@ -96,7 +96,7 @@ My goal is not simply to know many technologies.
 
 # 🛠️ Tech Stack
 
-### Languages & Backend
+### Languages
 
 <p align="left">
 
