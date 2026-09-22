@@ -108,10 +108,6 @@ My goal is not simply to know many technologies.
 <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
 </a>
 
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript"/>
-</a>
-
 <a href="https://laravel.com/">
 <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
 </a>
@@ -127,7 +123,7 @@ My goal is not simply to know many technologies.
 </a>
 
 <a href="https://www.w3schools.com/sql/">
-<img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=sql" width="55" height="55" alt="SQL"/>
 </a>
 
 </p>
