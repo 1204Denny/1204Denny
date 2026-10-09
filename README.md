@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Denny AK
+# 👋 Hi, I'm Daniel António Kapemba
+Conhecido por Denny AK
 
 ### Backend & Database Developer in Progress · Cybersecurity Enthusiast
 
