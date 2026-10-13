@@ -108,58 +108,48 @@ My goal is not  to know many technologies.
 ### Languages
 
 <p align="left">
-
-<a href="https://www.php.net/">
-<img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP"/>
-</a>
-
-<a href="https://www.javascript.com/">
-<img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
-</a>
-
-<a href="https://laravel.com/">
-<img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
-</a>
-
-   <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#"/>
-
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP"/>
+  </a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
+  </a>
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#"/>
+  </a>
 </p>
 
 ### Databases
 
 <p align="left">
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
-</a>
-
-<a href="https://www.w3schools.com/sql/">
-<img src="https://skillicons.dev/icons?i=sql" width="55" height="55" alt="SQL"/>
-</a>
-
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
+  </a>
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=sql" width="55" height="55" alt="SQL"/>
+  </a>
 </p>
 
 ### Systems & Tools
 
 <p align="left">
-
-<a href="https://ubuntu.com/">
-<img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" alt="Ubuntu"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
-</a>
-
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" alt="Ubuntu"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
+  </a>
 </p>
+
 
 ---
 
