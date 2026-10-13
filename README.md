@@ -97,12 +97,6 @@ My goal is not  to know many technologies.
 
 ---
 
-#  Certifications
-
-<img src="Imagens_1204Denny/Certificado_Daniel_Antonio_Kapemba_Shield_Pentest.jpg" alt="certificate_cybersecurity">
-<p>Uma certificação que demonstra o meu compromisso em aprender e evoluir na área de segurança cibernética.</p>
----
-
 # 🛠️ Tech Stack
 
 ### Languages
@@ -270,6 +264,13 @@ Cybersecurity
 <img src="https://streak-stats.demolab.com?user=1204Denny&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
+---
+
+#  Certifications
+
+<img src="Imagens_1204Denny/Certificado_Daniel_Antonio_Kapemba_Shield_Pentest.jpg" alt="certificate_cybersecurity">
+<p>Uma certificação que demonstra o meu compromisso em aprender e evoluir na área de segurança cibernética.</p>
 
 ---
 
