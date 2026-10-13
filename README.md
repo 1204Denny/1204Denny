@@ -121,7 +121,7 @@ My goal is not  to know many technologies.
 <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
 </a>
 
-   <img src="https://skillicons.dev/icons?i=c.sharp" width="55" height="55" alt="C#"/>
+   <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#"/>
 
 </p>
 
