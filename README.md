@@ -101,9 +101,6 @@ My goal is not  to know many technologies.
 
 <img src="Imagens_1204Denny/Certificado_Daniel_Antonio_Kapemba_Shield_Pentest.jpg" alt="certificate_cybersecurity">
 <p>Uma certificação que demonstra o meu compromisso em aprender e evoluir na área de segurança cibernética.</p>
-
-<img src="Imagens_1204Denny/IMG_20260823_125241.jpg" alt="certificate_hounnor">
-<p>Certificação de mérito em estágio, demonstrando o meu avanço e crescimento constante em desenvolvimento, lógica de programaçao e resolução de problemas reais.</p>
 ---
 
 # 🛠️ Tech Stack
@@ -124,9 +121,7 @@ My goal is not  to know many technologies.
 <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
 </a>
 
-<a href="https://www.net.com">
-   <img src="https://skillicons.dev/icons?i=c#" width="55" height="55" alt="C#"/>
-</a>
+   <img src="https://skillicons.dev/icons?i=c.sharp" width="55" height="55" alt="C#"/>
 
 </p>
 
