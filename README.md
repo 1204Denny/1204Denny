@@ -5,7 +5,7 @@ Conhecido por Denny AK
 
 ### Backend & Database Developer in evolution · Cybersecurity Enthusiast
 
-<img src="banner_daniel_kapemba.png" alt="Banner_Daniel_Kapemba">
+<img src="Imagens_1204Denny/banner_daniel_kapemba.png" alt="Banner_Daniel_Kapemba">
 
 **Learning. Building. Innovating.**
 
