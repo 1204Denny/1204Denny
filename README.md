@@ -77,7 +77,8 @@ My goal is not  to know many technologies.
 ### 🐧 Operating Systems
 
 * Ubuntu
-* <Kali-linux></Kali-linux>
+* Kali Linux
+* Windows
 
 </td>
 
@@ -86,8 +87,9 @@ My goal is not  to know many technologies.
 ### 🛡️ Cybersecurity
 
 * Security Fundamentals
-* Ethical Hacking (beginning)
+* Ethical Hacking
 * Secure Development
+* Pentest
 
 </td>
 </tr>
@@ -111,6 +113,10 @@ My goal is not  to know many technologies.
 
 <a href="https://laravel.com/">
 <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
+</a>
+
+<a href="https://.net.com">
+   <img src="https://skillicons.dev/icons?i=c#" width="55" height="55" alt="JavaScript"/>
 </a>
 
 </p>
@@ -225,7 +231,7 @@ Every project is an opportunity to understand something deeper.
 
 ### 02 — Systems & Networking
 
-`Linux` → `Operating Systems` → `Networking` → `Windows Server`
+`Linux` → `Operating Systems` → `Networking`
 
 ⬇️
 
@@ -233,11 +239,6 @@ Every project is an opportunity to understand something deeper.
 
 `Security Fundamentals` → `Web Security` → `Ethical Hacking` → `Security Engineering`
 
-⬇️
-
-### 04 — Professional Growth
-
-`CCNA` → `Security+` → `Cloud` → `Advanced Security`
 
 ⬇️
 
@@ -259,7 +260,7 @@ Cybersecurity
 * [ ] Strengthen Backend Development
 * [ ] Deepen SQL & Database Engineering
 * [ ] Complete Networking foundations
-* [ ] Prepare for CCNA
+* [ ] Prepare for data center & cloud security
 * [ ] Strengthen Linux & Systems
 * [ ] Continue Ethical Hacking
 * [ ] Build security-focused projects
@@ -296,7 +297,7 @@ I'm also working on:
 * 🧠 Developing problem-solving skills
 * 📚 Studying technology consistently
 * 🌐 Building a professional network
-* 🚀 Participating in technology projects and competitions
+* 🚀 Participating in technology projects
 * 🤝 Exploring Open Source
 
 ---
